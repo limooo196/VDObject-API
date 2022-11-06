@@ -1,5 +1,5 @@
 # VDObject-API
-This is Node JS application that is built with Express. Its web-server that handles various HTTP request that connects with MySQL database. 
+This is Node JS application that is a web-server that handles certain objects with various HTTP request that connects with MySQL database. 
 
 To run this application : 
 - adjust the .env files to match your database
